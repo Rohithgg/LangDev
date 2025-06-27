@@ -109,10 +109,6 @@ Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.co
 
 Project Link: [https://github.com/yourusername/langdev](https://github.com/rohithgg/langdev)
 
-## 🙏 Acknowledgements
+## 🙏 best contributers and maintainers
 
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/)
-- [Lucide Icons](https://lucide.dev/)
+- "your name will be listed here"
