@@ -105,9 +105,9 @@ See [LICENSE](LICENSE) for more information.
 
 ## 📬 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
+Rohith Gona - [@rohith gona](https://linkedin.com/in/rohithgona) - atworkrohith.gona@gmail.com
 
-Project Link: [https://github.com/yourusername/langdev](https://github.com/rohithgg/langdev)
+Project Link: [https://github.com/rohithgg/langdev](https://github.com/rohithgg/langdev)
 
 ## 🙏 best contributers and maintainers
 
