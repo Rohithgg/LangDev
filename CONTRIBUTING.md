@@ -24,6 +24,9 @@ This section guides you through submitting an enhancement suggestion for LangDev
 * **Determine which repository the enhancement should be suggested in**.
 * **Describe the current behavior** and **explain which behavior you expected to see instead** and why.
 * **Explain why this enhancement would be useful** to most LangDev users.
+* **Provide a clear use case** for the enhancement.
+* **Include screenshots** or animated GIFs if applicable to help explain the enhancement.
+* **Update the documentation** to reflect the enhancement if it is accepted and document everthing.
 
 ### Adding New Programming Languages
 

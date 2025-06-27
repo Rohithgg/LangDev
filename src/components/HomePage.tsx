@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Copy, Check, Github, Code, Terminal, Users, ArrowRight } from 'lucide-react';
+import { Copy, Check, Code, Terminal, Users, ArrowRight } from 'lucide-react';
 import { languages } from '../data/languages';
 
 interface HomePageProps {

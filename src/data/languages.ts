@@ -27,9 +27,9 @@ export const languages: Language[] = [
     category: 'Language',
     icon: '🐍',
     installCommand: {
-      windows: 'curl -fsSL https://get.lang.dev/python | powershell',
-      mac: 'curl -fsSL https://get.lang.dev/python | bash',
-      linux: 'curl -fsSL https://get.lang.dev/python | bash'
+      windows: 'powershell -Command "& { iwr https://raw.githubusercontent.com/Rohithgg/LangDev/main/scripts/python/install_python.ps1 -UseBasicParsing | iex }"',
+      mac: 'curl -fsSL https://raw.githubusercontent.com/Rohithgg/LangDev/main/scripts/python/install_python.sh | bash',
+      linux: 'curl -fsSL https://raw.githubusercontent.com/Rohithgg/LangDev/main/scripts/python/install_python.sh | bash'
     },
     verifyCommand: 'python --version && pip --version',
     additionalSteps: [

@@ -84,7 +84,9 @@ const Sidebar: React.FC<SidebarProps> = ({ currentLanguage, onLanguageSelect, on
           {/* Links */}
           <div className="pt-6 border-t border-gray-800">
             <a
-              href="#"
+              href="https://github.com/Rohithgg/LangDev"
+              target="_blank"
+              rel="noopener noreferrer"
               className="flex items-center space-x-2 text-gray-400 hover:text-blue-400 transition-colors duration-200 px-3 py-2"
             >
               <Github className="w-4 h-4" />
