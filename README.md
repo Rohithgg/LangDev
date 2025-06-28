@@ -81,7 +81,7 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more information and [SCRIPTS_README.md](scripts/Scripts_README.md) for guidelines on contributing scripts.
 
 ## 📝 License
 
