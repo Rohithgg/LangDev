@@ -9,11 +9,11 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Stars](https://img.shields.io/github/stars/yourusername/langdev?style=social)](https://github.com/yourusername/langdev/stargazers)
+[![Stars](https://img.shields.io/github/stars/rohithgg/langdev?style=social)](https://github.com/rohithgg/langdev/stargazers)
 
 **A comprehensive guide to development environments and installation instructions for various programming languages.**
 
-[Demo](https://yourusername.github.io/langdev) • [Documentation](https://github.com/yourusername/langdev/wiki) • [Report Bug](https://github.com/yourusername/langdev/issues) • [Request Feature](https://github.com/yourusername/langdev/issues)
+[Demo coming soon](https://langdev.smartzyedu.com) • [Documentation](https://github.com/rohithgg/langdev/wiki) • [Report Bug](https://github.com/rohithgg/langdev/issues) • [Request Feature](https://github.com/rohithgg/langdev/issues)
 
 </div>
 
