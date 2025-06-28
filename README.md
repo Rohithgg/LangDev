@@ -105,14 +105,10 @@ See [LICENSE](LICENSE) for more information.
 
 ## 📬 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
+Rohith Gona - [@rohith gona](https://linkedin.com/in/rohithgona) - atworkrohith.gona@gmail.com
 
-Project Link: [https://github.com/yourusername/langdev](https://github.com/rohithgg/langdev)
+Project Link: [https://github.com/rohithgg/langdev](https://github.com/rohithgg/langdev)
 
-## 🙏 Acknowledgements
+## 🙏 best contributers and maintainers
 
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/)
-- [Lucide Icons](https://lucide.dev/)
+- "your name will be listed here"
